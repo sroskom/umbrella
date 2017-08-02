@@ -1,0 +1,3 @@
+title=umbrella
+author=stros
+orientation=landscape
